@@ -1,3 +1,4 @@
 {"monitor":"the-ridgwell-archives","month":"2026-10","fields":["t","status","code","ms"],"checks":[
-[1793469466,"up",200,2210]
+[1793469466,"up",200,2210],
+[1793469766,"up",200,1386]
 ]}
