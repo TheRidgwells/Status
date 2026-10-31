@@ -5,6 +5,12 @@ a fixed order: Added, Changed, Fixed, Removed, Security, Deprecated. This projec
 [Semantic Versioning](https://semver.org) `0.x.y`; its first stable release will be its first
 [Date Version](https://datevers.ing) (`YY.MM.DD`), with no 1.0.0.
 
+## v0.2.0
+
+### Added
+
+- **The Ridgwell Archives** (archives.ridgwell.network) is checked every 5 minutes too, in the family's group.
+
 ## v0.1.0
 
 ### Added

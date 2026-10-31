@@ -47,6 +47,9 @@ groups:
       - name: The Ridgwell Cats
         url: https://cats.ridgwell.family/
         description: Lily, Poppy, Olly and Dougal, being cats
+      - name: The Ridgwell Archives
+        url: https://archives.ridgwell.network/
+        description: The family's retired websites and projects, archived
 
   - name: Shared
     description: What every family site relies on.
