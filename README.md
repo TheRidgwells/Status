@@ -23,6 +23,7 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 | The Ridgwell Family | [Leo JD Ridgwell](https://leo.ridgwell.family/) | Up | 100.00% | 100.00% | 100.00% | 147 ms |
 | The Ridgwell Family | [Elisia](https://elisia.ridgwell.family/) | Up | 100.00% | 100.00% | 100.00% | 9152 ms |
 | The Ridgwell Family | [The Ridgwell Cats](https://cats.ridgwell.family/) | Up | 100.00% | 100.00% | 100.00% | 337 ms |
+| The Ridgwell Family | [The Ridgwell Archives](https://archives.ridgwell.network/) | No data | n/a | n/a | n/a | n/a |
 | Shared | [Ridgwell Family Media](https://global.media.ridgwell.family/icon.png) | Up | 100.00% | 100.00% | 100.00% | 316 ms |
 <!-- githup:end -->
 
