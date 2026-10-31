@@ -13,6 +13,17 @@
 Updated by GitHup whenever the status page is rebuilt (hourly, and when a status changes).
 
 <!-- githup:start -->
+<!-- This table is written by GitHup (https://github.com/StuxGroup/GitHup); edits here are overwritten. -->
+
+**All systems operational** · [Live status page](https://status.ridgwell.family/)
+
+| Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
+| ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
+| The Ridgwell Family | [The Ridgwell Family](https://the.ridgwell.family/) | Up | 100.00% | 100.00% | 100.00% | 296 ms |
+| The Ridgwell Family | [Leo JD Ridgwell](https://leo.ridgwell.family/) | Up | 100.00% | 100.00% | 100.00% | 147 ms |
+| The Ridgwell Family | [Elisia](https://elisia.ridgwell.family/) | Up | 100.00% | 100.00% | 100.00% | 9152 ms |
+| The Ridgwell Family | [The Ridgwell Cats](https://cats.ridgwell.family/) | Up | 100.00% | 100.00% | 100.00% | 337 ms |
+| Shared | [Ridgwell Family Media](https://global.media.ridgwell.family/icon.png) | Up | 100.00% | 100.00% | 100.00% | 316 ms |
 <!-- githup:end -->
 
 ## What's monitored
