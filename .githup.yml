@@ -1,0 +1,59 @@
+# The Ridgwell Family Status: https://status.ridgwell.family
+# Checked every 5 minutes by .github/workflows/status.yml, using GitHup:
+# https://github.com/StuxGroup/GitHup
+# Only the family's public websites: the homelab's own services are private, and Ridgdash watches those.
+site:
+  name: The Ridgwell Family Status
+  description: Live status of the Ridgwell Family's websites, checked every 5 minutes.
+  logo: https://global.media.ridgwell.family/logo.png
+  favicon: https://global.media.ridgwell.family/icon.png
+  accent: "#2a6bff"
+  url: https://status.ridgwell.family/
+  footer_links:
+    - label: The Ridgwell Family
+      url: https://the.ridgwell.family/
+    - label: Projects
+      url: https://projects.ridgwell.family/
+    - label: Report a problem
+      url: https://github.com/TheRidgwells/Status/issues/new
+
+legal:
+  operator: The Ridgwell Family
+  company: "The Ridgwell Family's websites are a family project, run by Leo JD Ridgwell. They're not operated by any company or organisation."
+  contact: admin@ridgwell.family
+  host: GitHub Pages
+  effective: 31 October 2026
+
+defaults:
+  timeout: 15
+  retries: 2
+  max_response_time: 15000  # ms; slower (but otherwise good) answers show as degraded
+
+# Monitors are grouped into sections on the page, each with a combined status.
+# Slugs come from the names, so moving a monitor between groups keeps its history.
+groups:
+  - name: The Ridgwell Family
+    description: The family's websites.
+    monitors:
+      - name: The Ridgwell Family
+        url: https://the.ridgwell.family/
+        description: The family's home page
+      - name: Leo JD Ridgwell
+        url: https://leo.ridgwell.family/
+        description: Leo's own site
+      - name: Elisia
+        url: https://elisia.ridgwell.family/
+        description: Elisia's site
+      - name: The Ridgwell Cats
+        url: https://cats.ridgwell.family/
+        description: Lily, Poppy, Olly and Dougal, being cats
+
+  - name: Shared
+    description: What every family site relies on.
+    monitors:
+      - name: Ridgwell Family Media
+        url: https://global.media.ridgwell.family/icon.png
+        description: The family's logos and images, used across every site
+
+incidents:
+  labels: [status]
