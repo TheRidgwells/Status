@@ -5,6 +5,14 @@ a fixed order: Added, Changed, Fixed, Removed, Security, Deprecated. This projec
 [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, plus `-1`, `-2`... for later releases that
 day). v26.11.06 is its first stable release; the releases before it were pre-stable, on `0.x.y`.
 
+## v26.11.06-1
+
+### Changed
+
+- The commit scripts (`commit.sh`, `commit.bat`) and `tests/version.sh` are Date Versioning only, the same as the
+  other GitHup status pages' (from Stuxedo/Status): the version test's "accepts a pre-stable 0.x.y" check failed once
+  the v26.11.06 tag existed, since the old scripts rightly refused 0.x.y from then on.
+
 ## v26.11.06
 
 The first stable release, and the switch to Date Versioning for good (there is no 1.0.0). Like the other GitHup
