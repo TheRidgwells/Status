@@ -5,6 +5,14 @@ a fixed order: Added, Changed, Fixed, Removed, Security, Deprecated. This projec
 [Semantic Versioning](https://semver.org) `0.x.y`; its first stable release will be its first
 [Date Version](https://datevers.ing) (`YY.MM.DD`), with no 1.0.0.
 
+## v0.2.1
+
+### Changed
+
+- The page is now called **Ridgwell Status** (it was The Ridgwell Family Status), as on projects.ridgwell.family, and
+  its logo and favicon are its own badge icon (the family emblem with a heartbeat badge) rather than the family's
+  logo. The README's header too.
+
 ## v0.2.0
 
 ### Added

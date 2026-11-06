@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://global.media.ridgwell.family/logo.png" height="100" alt="The Ridgwell Family">
+  <img src="https://projects.ridgwell.family/assets/img/projects/ridgwell-status-icon.png" height="100" alt="Ridgwell Status icon">
 </p>
 
-# Status
+# Ridgwell Status
 
 ### *Live status of the Ridgwell Family's websites, powered by [GitHup](https://github.com/StuxGroup/GitHup).*
 
