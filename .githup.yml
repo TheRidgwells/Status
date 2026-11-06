@@ -1,12 +1,13 @@
-# The Ridgwell Family Status: https://status.ridgwell.family
+# Ridgwell Status: https://status.ridgwell.family
 # Checked every 5 minutes by .github/workflows/status.yml, using GitHup:
 # https://github.com/StuxGroup/GitHup
 # Only the family's public websites: the homelab's own services are private, and Ridgdash watches those.
 site:
-  name: The Ridgwell Family Status
+  name: Ridgwell Status
   description: Live status of the Ridgwell Family's websites, checked every 5 minutes.
-  logo: https://global.media.ridgwell.family/logo.png
-  favicon: https://global.media.ridgwell.family/icon.png
+  # Its own badge icon (the family emblem with a heartbeat badge), as on projects.ridgwell.family.
+  logo: https://projects.ridgwell.family/assets/img/projects/ridgwell-status-icon.png
+  favicon: https://projects.ridgwell.family/assets/img/projects/ridgwell-status-icon.png
   accent: "#2a6bff"
   url: https://status.ridgwell.family/
   footer_links:

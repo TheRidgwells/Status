@@ -52,8 +52,8 @@ python -m githup demo --config .githup.yml --data-dir .dev/data || exit /b 1
 python -m githup site --config .githup.yml --data-dir .dev/data --incidents-file .dev/data/incidents.json --out .dev/public --no-deploy || exit /b 1
 
 if "%DEV_MODE%"=="1" (
-    echo The Ridgwell Family Status ^(DEV_MODE=1^) at http://127.0.0.1:%PORT%/
+    echo Ridgwell Status ^(DEV_MODE=1^) at http://127.0.0.1:%PORT%/
 ) else (
-    echo The Ridgwell Family Status ^(production rendering^) at http://127.0.0.1:%PORT%/
+    echo Ridgwell Status ^(production rendering^) at http://127.0.0.1:%PORT%/
 )
 python -m http.server %PORT% --bind 127.0.0.1 --directory .dev/public
