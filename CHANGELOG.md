@@ -5,6 +5,13 @@ a fixed order: Added, Changed, Fixed, Removed, Security, Deprecated. This projec
 [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, plus `-1`, `-2`... for later releases that
 day). v26.11.06 is its first stable release; the releases before it were pre-stable, on `0.x.y`.
 
+## v26.11.06-2
+
+### Fixed
+
+- `CONTRIBUTING.md` calls the page Ridgwell Status, and its release notes say the project is on Date Versioning (they
+  still described the pre-stable `0.x.y` stage) and that releases reach `main` through a pull request from `test`.
+
 ## v26.11.06-1
 
 ### Changed
