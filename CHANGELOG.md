@@ -1,9 +1,19 @@
 # Changelog
 
 All notable changes to the Ridgwell Family's status page (status.ridgwell.family) are documented here. Sections follow
-a fixed order: Added, Changed, Fixed, Removed, Security, Deprecated. This project is pre-stable, on
-[Semantic Versioning](https://semver.org) `0.x.y`; its first stable release will be its first
-[Date Version](https://datevers.ing) (`YY.MM.DD`), with no 1.0.0.
+a fixed order: Added, Changed, Fixed, Removed, Security, Deprecated. This project uses
+[Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, plus `-1`, `-2`... for later releases that
+day). v26.11.06 is its first stable release; the releases before it were pre-stable, on `0.x.y`.
+
+## v26.11.06
+
+The first stable release, and the switch to Date Versioning for good (there is no 1.0.0). Like the other GitHup
+status pages, Ridgwell Status is now treated as stable.
+
+### Changed
+
+- Releases use Date Versioning: the README's Versioning section and this changelog say so, and the commit scripts
+  (which already accepted a Date Version) refuse to go back to `0.x.y` once v26.11.06 is tagged.
 
 ## v0.2.1
 
