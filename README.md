@@ -59,8 +59,9 @@ GitHup's DEV MODE banner (leave it off with `--no-dev-mode`).
 
 ## Versioning
 
-Pre-stable [Semantic Versioning](https://semver.org) on `0.x.y`. The first stable release will be the project's first
-[Date Version](https://datevers.ing) (`YY.MM.DD`, the UTC release date), with no 1.0.0. To release: update
+[Date Versioning](https://datevers.ing): each release is the UTC release date as `YY.MM.DD`, plus `-1`, `-2`... for
+later releases the same day. v26.11.06 was the first stable release (there was no 1.0.0; before it, the project was
+pre-stable on `0.x.y`), and it never goes back to `0.x.y`. To release: update
 `CHANGELOG.md`, bump `VERSION.md`, run `bash tests/version.sh`, then `./commit.sh` (or `commit.bat`), and push `main`
 and the new tag.
 
