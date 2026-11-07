@@ -33,8 +33,9 @@ Every 5 minutes (when GitHub runs the schedule late, a run checks up to 4 times,
 GitHup checks each monitor in [`.githup.yml`](.githup.yml):
 
 - **The Ridgwell Family:** [the.ridgwell.family](https://the.ridgwell.family), [leo.ridgwell.family](https://leo.ridgwell.family),
-  [elisia.ridgwell.family](https://elisia.ridgwell.family), [cats.ridgwell.family](https://cats.ridgwell.family) and
-  [archives.ridgwell.network](https://archives.ridgwell.network)
+  [elisia.ridgwell.family](https://elisia.ridgwell.family), [cats.ridgwell.family](https://cats.ridgwell.family),
+  [archives.ridgwell.network](https://archives.ridgwell.network), [projects.ridgwell.family](https://projects.ridgwell.family)
+  and [social.ridgwell.family](https://social.ridgwell.family) (Ridgwell Social, which shows as down until it launches)
 - **Shared:** the family's media server, global.media.ridgwell.family
 
 Only the family's public websites are here. The homelab's own services are private, and Ridgdash watches those.

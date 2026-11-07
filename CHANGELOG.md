@@ -5,6 +5,13 @@ a fixed order: Added, Changed, Fixed, Removed, Security, Deprecated. This projec
 [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, plus `-1`, `-2`... for later releases that
 day). v26.11.06 is its first stable release; the releases before it were pre-stable, on `0.x.y`.
 
+## v26.11.07
+
+### Added
+
+- **Two more monitors in The Ridgwell Family:** The Ridgwell Family Projects (projects.ridgwell.family) and Ridgwell
+  Social (social.ridgwell.family). Ridgwell Social shows as down until it launches. This page doesn't monitor itself.
+
 ## v26.11.06-2
 
 ### Fixed

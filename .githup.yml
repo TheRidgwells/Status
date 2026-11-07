@@ -51,6 +51,12 @@ groups:
       - name: The Ridgwell Archives
         url: https://archives.ridgwell.network/
         description: The family's retired websites and projects, archived
+      - name: The Ridgwell Family Projects
+        url: https://projects.ridgwell.family/
+        description: All the family's sites and projects, in one place
+      - name: Ridgwell Social
+        url: https://social.ridgwell.family/
+        description: The family's own corner of the Fediverse
 
   - name: Shared
     description: What every family site relies on.
