@@ -31,8 +31,9 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 
 ## What's monitored
 
-Every 5 minutes (when GitHub runs the schedule late, a run checks up to 4 times, 5 minutes apart, to fill the gap),
-GitHup checks each monitor in [`.githup.yml`](.githup.yml):
+Regularly, GitHup checks each monitor in [`.githup.yml`](.githup.yml). The workflow asks GitHub for a run every 5
+minutes, but GitHub runs schedules on a best-effort basis, often less often. When it runs late, a run checks up to 4
+times, 5 minutes apart, to fill the gap, and the page shows the real rhythm ("checked about every … (last 24 h)"):
 
 - **The Ridgwell Family:** [the.ridgwell.family](https://the.ridgwell.family), [leo.ridgwell.family](https://leo.ridgwell.family),
   [elisia.ridgwell.family](https://elisia.ridgwell.family), [cats.ridgwell.family](https://cats.ridgwell.family),
