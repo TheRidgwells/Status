@@ -1,14 +1,21 @@
 # Ridgwell Status: https://status.ridgwell.family
-# Checked every 5 minutes by .github/workflows/status.yml, using GitHup:
+# Asks GitHub for a check every 5 minutes (best-effort; GitHub often runs it less often) - .github/workflows/status.yml,
+# using GitHup:
 # https://github.com/StuxGroup/GitHup
 # Only the family's public websites: the homelab's own services are private, and Ridgdash watches those.
 site:
   name: Ridgwell Status
-  description: Live status of the Ridgwell Family's websites, checked every 5 minutes.
+  description: Live status of the Ridgwell Family's websites, checked regularly.
   # Its own badge icon (the family emblem with a heartbeat badge), as on projects.ridgwell.family.
   logo: https://projects.ridgwell.family/assets/img/projects/ridgwell-status-icon.png
   favicon: https://projects.ridgwell.family/assets/img/projects/ridgwell-status-icon.png
   accent: "#2a6bff"
+  # The pixel cat from kat.stuxie.dev on every page, as Olly, with the footer's "Your cat" picker (GitHup v26.11.08),
+  # as on leo.ridgwell.family and projects.ridgwell.family.
+  kat:
+    kat: olly
+    name: cat
+    picker: true
   url: https://status.ridgwell.family/
   footer_links:
     - label: The Ridgwell Family

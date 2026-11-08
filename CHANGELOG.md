@@ -5,6 +5,19 @@ a fixed order: Added, Changed, Fixed, Removed, Security, Deprecated. This projec
 [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, plus `-1`, `-2`... for later releases that
 day). v26.11.06 is its first stable release; the releases before it were pre-stable, on `0.x.y`.
 
+## v26.11.08
+
+### Added
+
+- **The cat.** The pixel cat from kat.stuxie.dev follows your pointer on every page, as Olly, with a "Your cat" picker
+  in the footer, as on leo.ridgwell.family and projects.ridgwell.family (GitHup v26.11.08's `site.kat`).
+
+### Changed
+
+- **"Checked regularly", not "every 5 minutes".** GitHub runs the 5-minute schedule on a best-effort basis, often only
+  a few times a day, so the page's description and the README no longer promise 5 minutes. The page itself now shows
+  the real rhythm it's checked at (GitHup v26.11.08). The schedule is unchanged.
+
 ## v26.11.07
 
 ### Added
