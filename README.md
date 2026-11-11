@@ -19,12 +19,12 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| The Ridgwell Family | [The Ridgwell Family](https://the.ridgwell.family/) | Up | 96.15% | 99.51% | 99.68% | 787 ms |
-| The Ridgwell Family | [Leo JD Ridgwell](https://leo.ridgwell.family/) | Up | 96.15% | 99.51% | 99.68% | 730 ms |
-| The Ridgwell Family | [Elisia](https://elisia.ridgwell.family/) | Up | 96.15% | 99.51% | 99.06% | 835 ms |
-| The Ridgwell Family | [The Ridgwell Cats](https://cats.ridgwell.family/) | Up | 96.15% | 99.51% | 99.68% | 493 ms |
-| The Ridgwell Family | [The Ridgwell Archives](https://archives.ridgwell.network/) | Up | 96.15% | 99.51% | 99.36% | 758 ms |
-| The Ridgwell Family | [The Ridgwell Family Projects](https://projects.ridgwell.family/) | Up | 100.00% | 100.00% | 100.00% | 417 ms |
+| The Ridgwell Family | [The Ridgwell Family](https://the.ridgwell.family/) | Up | 96.15% | 99.51% | 99.69% | 824 ms |
+| The Ridgwell Family | [Leo JD Ridgwell](https://leo.ridgwell.family/) | Up | 96.15% | 99.51% | 99.69% | 782 ms |
+| The Ridgwell Family | [Elisia](https://elisia.ridgwell.family/) | Up | 96.15% | 99.51% | 99.08% | 828 ms |
+| The Ridgwell Family | [The Ridgwell Cats](https://cats.ridgwell.family/) | Up | 96.15% | 99.51% | 99.69% | 491 ms |
+| The Ridgwell Family | [The Ridgwell Archives](https://archives.ridgwell.network/) | Up | 96.15% | 99.51% | 99.38% | 771 ms |
+| The Ridgwell Family | [The Ridgwell Family Projects](https://projects.ridgwell.family/) | Up | 100.00% | 100.00% | 100.00% | 429 ms |
 | The Ridgwell Family | [Ridgwell Social](https://social.ridgwell.family/) | **Down** | 0.00% | 0.00% | 0.00% | n/a |
 | Shared | [Ridgwell Family Media](https://global.media.ridgwell.family/icon.png) | Up | 100.00% | 100.00% | 100.00% | 427 ms |
 <!-- githup:end -->
