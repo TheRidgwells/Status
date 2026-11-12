@@ -1,7 +1,7 @@
 {
  "version": 1,
  "generator": "GitHup",
- "updated": 1794487947,
+ "updated": 1794488247,
  "name": "Ridgwell Status",
  "status": "partial",
  "monitors": [
@@ -11,8 +11,8 @@
    "url": "https://the.ridgwell.family/",
    "status": "up",
    "code": 200,
-   "ms": 483,
-   "checked_at": 1794487941,
+   "ms": 497,
+   "checked_at": 1794488241,
    "last_change": {
     "at": 1794333735,
     "from": "down",
@@ -20,23 +20,23 @@
    },
    "uptime": {
     "24h": 100.0,
-    "7d": 99.512,
-    "30d": 99.718,
-    "90d": 99.718,
-    "all": 99.718
+    "7d": 99.514,
+    "30d": 99.719,
+    "90d": 99.719,
+    "all": 99.719
    },
    "avg_ms": {
-    "24h": 828,
-    "7d": 868,
-    "30d": 711,
-    "90d": 711,
-    "all": 711
+    "24h": 817,
+    "7d": 866,
+    "30d": 710,
+    "90d": 710,
+    "all": 710
    },
    "totals": {
-    "checks": 355,
-    "available": 354,
-    "ms_sum": 251581,
-    "ms_n": 354,
+    "checks": 356,
+    "available": 355,
+    "ms_sum": 252078,
+    "ms_n": 355,
     "first": 1793454415
    },
    "incident": null
@@ -47,8 +47,8 @@
    "url": "https://leo.ridgwell.family/",
    "status": "up",
    "code": 200,
-   "ms": 677,
-   "checked_at": 1794487941,
+   "ms": 539,
+   "checked_at": 1794488241,
    "last_change": {
     "at": 1794333735,
     "from": "down",
@@ -56,23 +56,23 @@
    },
    "uptime": {
     "24h": 100.0,
-    "7d": 99.512,
-    "30d": 99.718,
-    "90d": 99.718,
-    "all": 99.718
+    "7d": 99.514,
+    "30d": 99.719,
+    "90d": 99.719,
+    "all": 99.719
    },
    "avg_ms": {
-    "24h": 829,
-    "7d": 928,
-    "30d": 815,
-    "90d": 815,
-    "all": 815
+    "24h": 820,
+    "7d": 926,
+    "30d": 814,
+    "90d": 814,
+    "all": 814
    },
    "totals": {
-    "checks": 355,
-    "available": 354,
-    "ms_sum": 288377,
-    "ms_n": 354,
+    "checks": 356,
+    "available": 355,
+    "ms_sum": 288916,
+    "ms_n": 355,
     "first": 1793454415
    },
    "incident": null
@@ -83,8 +83,8 @@
    "url": "https://elisia.ridgwell.family/",
    "status": "up",
    "code": 200,
-   "ms": 489,
-   "checked_at": 1794487941,
+   "ms": 701,
+   "checked_at": 1794488241,
    "last_change": {
     "at": 1794333735,
     "from": "down",
@@ -92,23 +92,23 @@
    },
    "uptime": {
     "24h": 100.0,
-    "7d": 99.512,
-    "30d": 99.154,
-    "90d": 99.154,
-    "all": 99.154
+    "7d": 99.514,
+    "30d": 99.157,
+    "90d": 99.157,
+    "all": 99.157
    },
    "avg_ms": {
-    "24h": 774,
-    "7d": 906,
-    "30d": 2346,
-    "90d": 2346,
-    "all": 2346
+    "24h": 772,
+    "7d": 905,
+    "30d": 2341,
+    "90d": 2341,
+    "all": 2341
    },
    "totals": {
-    "checks": 355,
-    "available": 352,
-    "ms_sum": 825676,
-    "ms_n": 352,
+    "checks": 356,
+    "available": 353,
+    "ms_sum": 826377,
+    "ms_n": 353,
     "first": 1793454415
    },
    "incident": null
@@ -119,8 +119,8 @@
    "url": "https://cats.ridgwell.family/",
    "status": "up",
    "code": 200,
-   "ms": 316,
-   "checked_at": 1794487941,
+   "ms": 271,
+   "checked_at": 1794488241,
    "last_change": {
     "at": 1794333735,
     "from": "down",
@@ -128,23 +128,23 @@
    },
    "uptime": {
     "24h": 100.0,
-    "7d": 99.512,
-    "30d": 99.718,
-    "90d": 99.718,
-    "all": 99.718
+    "7d": 99.514,
+    "30d": 99.719,
+    "90d": 99.719,
+    "all": 99.719
    },
    "avg_ms": {
-    "24h": 499,
-    "7d": 622,
-    "30d": 596,
-    "90d": 596,
-    "all": 596
+    "24h": 492,
+    "7d": 620,
+    "30d": 595,
+    "90d": 595,
+    "all": 595
    },
    "totals": {
-    "checks": 355,
-    "available": 354,
-    "ms_sum": 210873,
-    "ms_n": 354,
+    "checks": 356,
+    "available": 355,
+    "ms_sum": 211144,
+    "ms_n": 355,
     "first": 1793454415
    },
    "incident": null
@@ -155,8 +155,8 @@
    "url": "https://archives.ridgwell.network/",
    "status": "up",
    "code": 200,
-   "ms": 707,
-   "checked_at": 1794487941,
+   "ms": 682,
+   "checked_at": 1794488241,
    "last_change": {
     "at": 1794333735,
     "from": "down",
@@ -164,23 +164,23 @@
    },
    "uptime": {
     "24h": 100.0,
-    "7d": 99.512,
-    "30d": 99.43,
-    "90d": 99.43,
-    "all": 99.43
+    "7d": 99.514,
+    "30d": 99.431,
+    "90d": 99.431,
+    "all": 99.431
    },
    "avg_ms": {
-    "24h": 716,
-    "7d": 744,
+    "24h": 714,
+    "7d": 743,
     "30d": 957,
     "90d": 957,
     "all": 957
    },
    "totals": {
-    "checks": 351,
-    "available": 349,
-    "ms_sum": 334103,
-    "ms_n": 349,
+    "checks": 352,
+    "available": 350,
+    "ms_sum": 334785,
+    "ms_n": 350,
     "first": 1793469466
    },
    "incident": null
@@ -191,8 +191,8 @@
    "url": "https://projects.ridgwell.family/",
    "status": "up",
    "code": 200,
-   "ms": 182,
-   "checked_at": 1794487941,
+   "ms": 487,
+   "checked_at": 1794488241,
    "last_change": {
     "at": 1794076670,
     "from": null,
@@ -206,17 +206,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 345,
-    "7d": 361,
-    "30d": 361,
-    "90d": 361,
-    "all": 361
+    "24h": 349,
+    "7d": 362,
+    "30d": 362,
+    "90d": 362,
+    "all": 362
    },
    "totals": {
-    "checks": 146,
-    "available": 146,
-    "ms_sum": 52684,
-    "ms_n": 146,
+    "checks": 147,
+    "available": 147,
+    "ms_sum": 53171,
+    "ms_n": 147,
     "first": 1794076670
    },
    "incident": null
@@ -227,8 +227,8 @@
    "url": "https://social.ridgwell.family/",
    "status": "down",
    "code": 502,
-   "ms": 457,
-   "checked_at": 1794487941,
+   "ms": 497,
+   "checked_at": 1794488241,
    "last_change": {
     "at": 1794076670,
     "from": null,
@@ -249,7 +249,7 @@
     "all": null
    },
    "totals": {
-    "checks": 146,
+    "checks": 147,
     "available": 0,
     "ms_sum": 0,
     "ms_n": 0,
@@ -267,8 +267,8 @@
    "url": "https://global.media.ridgwell.family/icon.png",
    "status": "up",
    "code": 200,
-   "ms": 129,
-   "checked_at": 1794487941,
+   "ms": 356,
+   "checked_at": 1794488241,
    "last_change": {
     "at": 1793454415,
     "from": null,
@@ -282,17 +282,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 477,
-    "7d": 426,
-    "30d": 434,
-    "90d": 434,
-    "all": 434
+    "24h": 474,
+    "7d": 425,
+    "30d": 433,
+    "90d": 433,
+    "all": 433
    },
    "totals": {
-    "checks": 358,
-    "available": 358,
-    "ms_sum": 155248,
-    "ms_n": 358,
+    "checks": 359,
+    "available": 359,
+    "ms_sum": 155604,
+    "ms_n": 359,
     "first": 1793454415
    },
    "incident": null
@@ -300,7 +300,7 @@
  ],
  "cadence": {
   "window": 86400,
-  "checks": 31,
-  "every": 2747
+  "checks": 32,
+  "every": 2668
  }
 }
