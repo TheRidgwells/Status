@@ -19,14 +19,14 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| The Ridgwell Family | [The Ridgwell Family](https://the.ridgwell.family/) | Up | 100.00% | 99.50% | 99.71% | 857 ms |
-| The Ridgwell Family | [Leo JD Ridgwell](https://leo.ridgwell.family/) | Up | 100.00% | 99.50% | 99.71% | 852 ms |
-| The Ridgwell Family | [Elisia](https://elisia.ridgwell.family/) | Up | 100.00% | 99.50% | 99.14% | 797 ms |
-| The Ridgwell Family | [The Ridgwell Cats](https://cats.ridgwell.family/) | Up | 100.00% | 99.50% | 99.71% | 520 ms |
-| The Ridgwell Family | [The Ridgwell Archives](https://archives.ridgwell.network/) | Up | 100.00% | 99.50% | 99.42% | 716 ms |
-| The Ridgwell Family | [The Ridgwell Family Projects](https://projects.ridgwell.family/) | Up | 100.00% | 100.00% | 100.00% | 355 ms |
+| The Ridgwell Family | [The Ridgwell Family](https://the.ridgwell.family/) | Up | 100.00% | 99.50% | 99.72% | 751 ms |
+| The Ridgwell Family | [Leo JD Ridgwell](https://leo.ridgwell.family/) | Up | 100.00% | 99.50% | 99.72% | 806 ms |
+| The Ridgwell Family | [Elisia](https://elisia.ridgwell.family/) | Up | 100.00% | 99.50% | 99.16% | 811 ms |
+| The Ridgwell Family | [The Ridgwell Cats](https://cats.ridgwell.family/) | Up | 100.00% | 99.50% | 99.72% | 496 ms |
+| The Ridgwell Family | [The Ridgwell Archives](https://archives.ridgwell.network/) | Up | 100.00% | 99.50% | 99.43% | 699 ms |
+| The Ridgwell Family | [The Ridgwell Family Projects](https://projects.ridgwell.family/) | Up | 100.00% | 100.00% | 100.00% | 342 ms |
 | The Ridgwell Family | [Ridgwell Social](https://social.ridgwell.family/) | **Down** | 0.00% | 0.00% | 0.00% | n/a |
-| Shared | [Ridgwell Family Media](https://global.media.ridgwell.family/icon.png) | Up | 100.00% | 100.00% | 100.00% | 491 ms |
+| Shared | [Ridgwell Family Media](https://global.media.ridgwell.family/icon.png) | Up | 100.00% | 100.00% | 100.00% | 479 ms |
 <!-- githup:end -->
 
 ## What's monitored
