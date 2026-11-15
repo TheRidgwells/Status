@@ -5,6 +5,11 @@ a fixed order: Added, Changed, Fixed, Removed, Security, Deprecated. This projec
 [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, plus `-1`, `-2`... for later releases that
 day). v26.11.06 is its first stable release; the releases before it were pre-stable, on `0.x.y`.
 
+## v26.11.15-2
+
+### Changed
+- **The check schedule's comment says what GitHub really does:** the workflow asks for a check every 5 minutes, but GitHub runs schedules best-effort and often less often (about one check every 45 minutes, measured on the status pages), not just "a little late".
+
 ## v26.11.15-1
 
 ### Changed
