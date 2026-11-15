@@ -5,6 +5,11 @@ a fixed order: Added, Changed, Fixed, Removed, Security, Deprecated. This projec
 [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, plus `-1`, `-2`... for later releases that
 day). v26.11.06 is its first stable release; the releases before it were pre-stable, on `0.x.y`.
 
+## v26.11.15-1
+
+### Changed
+- **Branches: `test` → `staging` → `main`.** Releases are still made on `test`, and now go live through two pull requests: `test` into `staging`, then `staging` into `main`. Nothing is pushed to `staging` or `main` directly. `commit.sh` / `commit.bat` refuse to run on `staging` or `main`, and print the push (`git push origin test --tags`) and both `gh pr create` commands. CONTRIBUTING.md describes it in "Branches and going live". There's no staging copy: nothing deploys from `staging`. The Status workflow still commits the monitors' data straight to `main`, as the one exception.
+
 ## v26.11.15
 
 ### Added
