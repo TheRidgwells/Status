@@ -13,8 +13,17 @@ software belong in [StuxGroup/GitHup](https://github.com/StuxGroup/GitHup/issues
 You need Python 3.11+ and nothing else.
 
 ```bash
-./dev-server.sh [--no-dev-mode] [port]   # or dev-server.bat on Windows
+./dev-server.sh [--no-dev-mode] [--lan] [port]   # or dev-server.bat on Windows; --lan for phones on the home network
 ```
+
+## Branches and going live
+
+- **`main` is what's live.** Nothing is pushed to it directly: it only changes when a pull request from `staging` is merged, with a merge commit so the release tags stay in its history. GitHub Pages publishes the status page from it.
+- **`staging` is the last check before live.** It only changes when a pull request from `test` is merged. Nothing deploys from it: there's no staging copy of this page.
+- **Work happens on `test`**, or on a branch off it that's merged back into it. Releases are made there too: `commit.sh` / `commit.bat` refuse to run on `staging` or `main`.
+- **Going live:** push `test` with its tag (`git push origin test --tags`), open a pull request into staging (`gh pr create --base staging --head test`), check staging once it's merged, then open one from staging into main (`gh pr create --base main --head staging`). Leo merges both.
+- Before opening a pull request, merge the branch it goes into back into yours if it has moved.
+- **The one exception:** the Status workflow (GitHup) commits the monitors' data to `main` on its own every few minutes. Merge `main` into `test` before starting new work.
 
 ## Project conventions
 
@@ -22,6 +31,6 @@ You need Python 3.11+ and nothing else.
 - **Don't edit `data/`** by hand: GitHup writes it.
 - **Releases:** [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, plus `-1`, `-2`... for
   later releases the same day). v26.11.06 was the first stable release, and there's no going back to `0.x.y`. Update `CHANGELOG.md` (sections in the order Added, Changed, Fixed, Removed,
-  Security, Deprecated), bump `VERSION.md`, run `bash tests/version.sh`, then `./commit.sh` (or `commit.bat`). Work goes on `test`, and reaches `main` through a
-  pull request that Leo merges.
+  Security, Deprecated), bump `VERSION.md`, run `bash tests/version.sh`, then `./commit.sh` (or `commit.bat`). Work goes on `test`, and reaches `main` through
+  `staging` (Branches and going live).
 - Commits use your own git identity.
