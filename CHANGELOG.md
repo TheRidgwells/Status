@@ -5,6 +5,11 @@ a fixed order: Added, Changed, Fixed, Removed, Security, Deprecated. This projec
 [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, plus `-1`, `-2`... for later releases that
 day). v26.11.06 is its first stable release; the releases before it were pre-stable, on `0.x.y`.
 
+## v26.11.15
+
+### Added
+- **`--lan` for the dev server** (`dev-server.sh`/`.bat`): it listens on every interface instead of only 127.0.0.1, so a phone or another device on the home network can open the local status page, and it prints the addresses to open (usually the 192.168.x.x one).
+
 ## v26.11.08
 
 ### Added

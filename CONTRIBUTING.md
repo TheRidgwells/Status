@@ -13,7 +13,7 @@ software belong in [StuxGroup/GitHup](https://github.com/StuxGroup/GitHup/issues
 You need Python 3.11+ and nothing else.
 
 ```bash
-./dev-server.sh [--no-dev-mode] [port]   # or dev-server.bat on Windows
+./dev-server.sh [--no-dev-mode] [--lan] [port]   # or dev-server.bat on Windows; --lan for phones on the home network
 ```
 
 ## Project conventions

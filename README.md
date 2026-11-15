@@ -55,11 +55,11 @@ settings.
 ## Local development
 
 ```bash
-./dev-server.sh [--no-dev-mode] [port]   # or dev-server.bat on Windows; Python 3.11+
+./dev-server.sh [--no-dev-mode] [--lan] [port]   # or dev-server.bat on Windows; Python 3.11+
 ```
 
 It builds the page from `.githup.yml` with 90 days of example data and serves it on http://127.0.0.1:8000, with
-GitHup's DEV MODE banner (leave it off with `--no-dev-mode`).
+GitHup's DEV MODE banner (leave it off with `--no-dev-mode`). Add `--lan` to open it from a phone or another device on the home network: it listens on every interface instead of only 127.0.0.1, and prints the addresses to open (`http://<address>:<port>/`; usually the 192.168.x.x one). Allow Python through the firewall if Windows asks.
 
 ## Versioning
 
