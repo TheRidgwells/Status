@@ -38,7 +38,7 @@ times, 5 minutes apart, to fill the gap, and the page shows the real rhythm ("ch
 - **The Ridgwell Family:** [the.ridgwell.family](https://the.ridgwell.family), [leo.ridgwell.family](https://leo.ridgwell.family),
   [elisia.ridgwell.family](https://elisia.ridgwell.family), [cats.ridgwell.family](https://cats.ridgwell.family),
   [archives.ridgwell.network](https://archives.ridgwell.network), [projects.ridgwell.family](https://projects.ridgwell.family)
-  and [social.ridgwell.family](https://social.ridgwell.family) (Ridgwell Social, which shows as down until it launches)
+  and [social.ridgwell.family](https://social.ridgwell.family) (Ridgwell Social)
 - **Shared:** the family's media server, global.media.ridgwell.family
 
 Only the family's public websites are here. The homelab's own services are private, and Ridgdash watches those.
