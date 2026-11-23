@@ -19,14 +19,14 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| The Ridgwell Family | [The Ridgwell Family](https://the.ridgwell.family/) | Up | 100.00% | 100.00% | 99.84% | 639 ms |
-| The Ridgwell Family | [Leo JD Ridgwell](https://leo.ridgwell.family/) | Up | 100.00% | 100.00% | 99.84% | 741 ms |
-| The Ridgwell Family | [Elisia](https://elisia.ridgwell.family/) | Up | 100.00% | 100.00% | 99.52% | 610 ms |
-| The Ridgwell Family | [The Ridgwell Cats](https://cats.ridgwell.family/) | Up | 100.00% | 100.00% | 99.84% | 364 ms |
-| The Ridgwell Family | [The Ridgwell Archives](https://archives.ridgwell.network/) | Up | 100.00% | 100.00% | 99.68% | 640 ms |
-| The Ridgwell Family | [The Ridgwell Family Projects](https://projects.ridgwell.family/) | Up | 100.00% | 100.00% | 100.00% | 226 ms |
-| The Ridgwell Family | [Ridgwell Social](https://social.ridgwell.family/) | Up | 93.75% | 16.48% | 7.09% | 530 ms |
-| Shared | [Ridgwell Family Media](https://global.media.ridgwell.family/icon.png) | Up | 100.00% | 100.00% | 100.00% | 330 ms |
+| The Ridgwell Family | [The Ridgwell Family](https://the.ridgwell.family/) | Up | 100.00% | 100.00% | 99.84% | 643 ms |
+| The Ridgwell Family | [Leo JD Ridgwell](https://leo.ridgwell.family/) | Up | 100.00% | 100.00% | 99.84% | 850 ms |
+| The Ridgwell Family | [Elisia](https://elisia.ridgwell.family/) | Up | 100.00% | 100.00% | 99.53% | 648 ms |
+| The Ridgwell Family | [The Ridgwell Cats](https://cats.ridgwell.family/) | Up | 100.00% | 100.00% | 99.84% | 328 ms |
+| The Ridgwell Family | [The Ridgwell Archives](https://archives.ridgwell.network/) | Up | 100.00% | 100.00% | 99.68% | 621 ms |
+| The Ridgwell Family | [The Ridgwell Family Projects](https://projects.ridgwell.family/) | Up | 100.00% | 100.00% | 100.00% | 215 ms |
+| The Ridgwell Family | [Ridgwell Social](https://social.ridgwell.family/) | Up | 100.00% | 20.54% | 8.81% | 526 ms |
+| Shared | [Ridgwell Family Media](https://global.media.ridgwell.family/icon.png) | Up | 100.00% | 100.00% | 100.00% | 315 ms |
 <!-- githup:end -->
 
 ## What's monitored
